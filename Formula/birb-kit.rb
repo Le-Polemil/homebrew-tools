@@ -1,8 +1,8 @@
 class BirbKit < Formula
   desc "Personal CLI toolkit"
   homepage "https://github.com/Le-Polemil/birb-kit"
-  url "https://github.com/Le-Polemil/birb-kit/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "9d55bd22f29cefa0529341f59dbf889ae09b05a9517b90244c2256b6e4674053"
+  url "https://github.com/Le-Polemil/birb-kit/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "f38c8351c575e5dc3b8bc9585642d4969079dfa7436bece5cf2f719d4d69bf67"
   license "MIT"
 
   depends_on "gh"
